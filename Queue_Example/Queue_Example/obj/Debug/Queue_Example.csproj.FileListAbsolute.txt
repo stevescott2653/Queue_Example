@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\bin\Debug\Queue_Example.exe.config
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\bin\Debug\Queue_Example.exe
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\bin\Debug\Queue_Example.pdb
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\obj\Debug\Queue_Example.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\obj\Debug\Queue_Example.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\obj\Debug\Queue_Example.exe
+D:\DEV\C#\Practice\Queue_Example\Queue_Example\obj\Debug\Queue_Example.pdb
